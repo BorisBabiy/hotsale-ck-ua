@@ -1,4 +1,4 @@
 hotsale-ck-ua
 =============
 
-Ecommerce 
+Ecommerce site
